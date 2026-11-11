@@ -1,0 +1,9 @@
+During rerun:
+
+-----------
+
+cd desktop/finsight-rag
+
+source .venv/bin/activate
+
+python3 rag/rag_pipeline.py
